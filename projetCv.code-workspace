@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "..\\Projet JSE\\Hopla"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projet CV",
+		"git.autofetch": true
+	}
+}
